@@ -1,11 +1,11 @@
 # OracLoops
-An upgrade of Berryloops with some extra features
+An upgrade of Berryloops by WydrAl with some extra features such as selecting start and end points, trigger, loop, and ping pong modes for playing back samples, attack envelope, plus all the functionality of the original. It is a bit menu divey so apologies for that.
 
-The patch functions in the same way as Berryloops by WyrdAl with C, C#, D, D# starting 4 loops and E being a global start. 
-F, F#, G, G# stop the respective loops and A is a global stop.
+The patch functions with the bottom C, C#, D, and D# able to start 4 loops with E being a global start. 
+The bottom F, F#, G, G# stop the respective loops and A is a global stop.
 
 There are two versions that are provided. The normal oracloops which is designed for the OG Organelle and oracloops+ which utilizes the multiple cores for the M.
-I have found there is signifcant improvements when using the plus version.
+I have found there are significant cpu advantages when using the + version so I highly recommend using that version where possible. 
 
-If errors are encountered be sure to make sure there is a folder at sdcard/media/oracloops or usbdrive/media/oracloops
-Unzip folder to sdcard/media/orac/usermodules/sampler (or whatever folder you wish) or usbdrive/media/oracloops
+Make sure to have the appropriate folders created to house the samples at sdcard/media/oracloops or usbdrive/media/oracloops
+Unzip folder to the orac usermodules folder and have fun!
